@@ -1,0 +1,10 @@
+footer {
+  text-align: center;
+  position: sticky;
+  bottom: 0px;
+
+}
+
+#imgBody{
+  min-width: 100%
+}
