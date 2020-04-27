@@ -1,10 +1,33 @@
-footer {
+body {
   text-align: center;
-  position: sticky;
-  bottom: 0px;
-
 }
 
-#imgBody{
-  min-width: 100%
+footer {
+  text-align: center;
+}
+
+.navbarFixed {
+  position: fixed;
+  width: 100%;
+  background-color: #000000;
+}
+
+.linkColor {
+  color: #ffac41;
+}
+
+.brandColor {
+  color: #ff1e56;
+}
+
+.buttonLink {
+  color: #ff1e56;
+  background-color: #ffac41;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+.body1 {
+  background-color: #00a8cc;
+  height: 3000px;
 }
